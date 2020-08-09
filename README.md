@@ -42,3 +42,4 @@ Unwilling to keep up with Twitch changes, the project has been halted by the dev
 If you are a developer, you are free to fork and modify the project, as well as use its code (according to the current license which can be found in the LICENSE file).
 
 Please refrain from creating new issues. Sorry for inconvinience.
+[![Run on Repl.it](https://repl.it/badge/github/ohyou/twitch-viewer)](https://repl.it/github/ohyou/twitch-viewer)
